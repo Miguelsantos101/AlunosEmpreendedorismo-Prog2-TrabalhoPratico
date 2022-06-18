@@ -8,16 +8,18 @@ O Trabalho foi feito inteiramente na linguagem de programação C++ durante a di
 
 ## 💾 Como utilizar 
 
-1 - Compile o arquivo "disasm.java"
+1 - Compile o programa utilizando o seguinte comando:
 
 ```
-  javac disasm.java
+  g++ *.cpp -o main
 ```
 
-2 - Execute-o passando como argumento o arquivo binário que deseja converter para linguagem de máquina
+:exclamation: **_IMPORTANTE: É necessário a instalação do compilador do Mingw-w64 para poder compilar._**
+
+2 - Execute o programa utilizando o seguinte comando:
 
 ```
-  java disasm teste.bin
+  .\main
 ```
 
-Após fazer esses passos, o arquivo binário lido será exibido na tela do console com as respectivas instruções MARIE.
+Após fazer esses passos, o programa será executado no terminal e você poderá utiliza-lo.
