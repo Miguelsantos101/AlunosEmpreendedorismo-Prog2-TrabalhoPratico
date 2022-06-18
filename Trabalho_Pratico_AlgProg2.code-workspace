@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {		
+		"editor.fontSize": 16,
+		"editor.fontFamily": "JetBrains Mono",
+		"workbench.colorTheme": "Monokai",
+		"workbench.colorCustomizations": {
+			"terminal.background": "#000000",
+		},
+		"code-runner.runInTerminal": true,
+		"code-runner.executorMap": {
+			"cpp": "cd $dir && g++ *.cpp -o $fileNameWithoutExt && $dir$fileNameWithoutExt"
+		},
+		"terminal.integrated.profiles.windows": {
+			"PowerShell": {
+				"source": "PowerShell",
+				"icon": "terminal-powershell",
+				"color": "terminal.ansiGreen"
+			},
+			"Git Bash": {
+				"source": "Git Bash",
+				"icon": "terminal-bash", //what icon to use
+				"color": "terminal.ansiGreen" //color of icon
+			},
+		}
+	}
+}
+
+// Se quiser utilizar as pastas "include" e "src" trocar "*.cpp" por "src/*.cpp".

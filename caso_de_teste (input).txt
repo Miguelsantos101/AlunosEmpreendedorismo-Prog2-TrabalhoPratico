@@ -1,0 +1,52 @@
+Joao da Silva Santos 		345678 		2.3 	4.5 	9 	    0.0
+1
+Mariana Teixeira da Silva 	758756 		5.8 	9 	    2.0 	7.0
+1
+Scarlette Johansson 		345210 		5.9 	10 	    10 	    0.0
+1
+Juliana Pereira Trevo 		987654 		6.5 	7.5 	7 	    0.0
+1
+Joaquim da Silva Santos 	145678 		6.3 	9.5 	9 	    0.0
+1
+Ana Teixeira da Silva 		658756 		8.8 	9 	    2.0 	7.0
+1
+Hudson Johansson 		    445210 		5.9 	10 	    10 	    0.0
+1
+Juliana Pereira Trevo 		982654 		9.5 	0 	    7 	    0.0
+1
+Miguel dos Santos Flores    123456      10      0       10      10.0
+
+
+
+Aa 111111 0 0 0 0 
+1
+Aa 222222 1 0 0 0
+1
+Aa 333333 1 1 0 0
+1
+Aa 444444 1 1 1 0
+1
+Aa 555555 1 1 1 2
+1
+Aa 666666 2 1 1 2
+1
+Aa 777777 1 2 1 2
+1
+Aa 888888 10 10 10 10
+
+
+3
+teste.txt
+2
+a
+
+Joao da Silva Santos 		345678 		2.3 	4.5 	9 	    0.0
+Mariana Teixeira da Silva 	758756 		5.8 	9 	    2.0 	7.0
+Scarlette Johansson 		345210 		5.9 	10 	    10 	    0.0
+Juliana Pereira Trevo 		987654 		6.5 	7.5 	7 	    0.0
+Joaquim da Silva Santos 	145678 		6.3 	9.5 	9 	    0.0
+Ana Teixeira da Silva 		658756 		8.8 	9 	    2.0 	7.0
+Hudson Johansson 		    445210 		5.9 	10 	    10 	    0.0
+Juliana Pereira Trevo 		982654 		9.5 	0 	    7 	    0.0
+Miguel dos Santos Flores    123456      10      0       10      10.0
+Ana Paula Padrao            234567      10      0       10      10.0
